@@ -123,7 +123,7 @@ Packet Tracer may show misleading port icons (orange/red) — always confirm wit
 
 STP operates on the Port-Channel interface, not on individual member ports.
 
-
+https://github.com/SynAckSensei/EtherChannel-Lab/blob/main/Ether-Channel.png
 
 
 
