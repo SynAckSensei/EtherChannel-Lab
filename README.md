@@ -122,3 +122,8 @@ EtherChannel requires identical settings across member ports (speed, duplex, VLA
 Packet Tracer may show misleading port icons (orange/red) — always confirm with CLI (show etherchannel summary).
 
 STP operates on the Port-Channel interface, not on individual member ports.
+
+
+<img width="1306" height="492" alt="Ether-Channel" src="https://github.com/user-attachments/assets/a9d7854e-259a-4469-9e9c-2c46cb0ea893"/>
+
+
